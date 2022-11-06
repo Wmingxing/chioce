@@ -1,0 +1,93 @@
+body {
+    background-color: rgb(77, 102, 77);
+}
+
+#p {
+    display: none;
+}
+
+.box {
+    float: left;
+    width: 100px;
+    height: 40px;
+    background-color: rgb(39, 114, 175);
+    border-radius: 15px;
+    text-align: center;
+    line-height: 40px;
+}
+
+.box1 {
+    width: 300px;
+    height: 200px;
+    background-color: rgb(126, 125, 160);
+    margin: auto;
+}
+
+.menu1 {
+    width: 300px;
+    height: 150px;
+    background-color: rgb(221, 204, 204);
+    border-radius: 10px;
+    line-height: 150px;
+    text-align: center;
+    margin: 100px auto;
+    font-size: 30px;
+    font-family: stxingkai;
+}
+
+.start1 {
+    width: 150px;
+    height: 50px;
+    line-height: 50px;
+    text-align: center;
+    border-radius: 10px;
+    background-color: rgb(201, 145, 76);
+    margin: auto;
+    font-size: 20px;
+    font-family: stxinwei;
+}
+
+.start1:hover {
+    background-color: rgb(199, 187, 172);
+}
+
+.bt1 {
+    width: 200px;
+    height: 40px;
+    margin: auto;
+}
+
+#btn {
+    border: none;
+    font-size: 24px;
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    font-family: fzshuti;
+    margin: auto;
+    background-color: rgb(196, 128, 128);
+}
+
+#btn:hover {
+    background-color: #e2c9c9;
+}
+
+.change {
+    position: fixed;
+    bottom: 20px;
+    border-radius: 15px;
+    background-color: rgb(112, 148, 179);
+    border: none;
+    font-size: 10px;
+    color: #ffffff;
+    padding: 10px;
+    width: 200px;
+    font-size: 15px;
+    text-align: center;
+    text-decoration: none;
+    font-family: stxingkai;
+}
+
+.change:hover {
+    background-color: #c59090;
+}
