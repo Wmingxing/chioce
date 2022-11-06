@@ -9,17 +9,21 @@ body {
 .box {
     float: left;
     width: 100px;
-    height: 40px;
-    background-color: rgb(92, 140, 179);
-    border-radius: 15px;
+    height: 30px;
+    background-color: rgb(187, 173, 126);
+    border-radius: 10px;
     text-align: center;
-    line-height: 40px;
+    line-height: 30px;
+}
+
+.box:hover {
+    background-color: #b69898;
 }
 
 .box1 {
     width: 300px;
     height: 200px;
-    background-color: rgb(58, 57, 133);
+    background-color: rgb(138, 102, 36);
     margin: auto;
 }
 
