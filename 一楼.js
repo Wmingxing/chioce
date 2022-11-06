@@ -1,3 +1,5 @@
+ alert("欢迎来到郑工金河餐厅一楼!")
+
 function username() {
     var flag = false;
     var timerId = null;
