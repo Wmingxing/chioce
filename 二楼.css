@@ -9,11 +9,15 @@ body {
 .box {
     float: left;
     width: 100px;
-    height: 40px;
-    background-color: rgb(39, 114, 175);
-    border-radius: 15px;
+    height: 25px;
+    background-color: rgb(129, 152, 170);
+    border-radius: 10px;
     text-align: center;
-    line-height: 40px;
+    line-height: 20px;
+}
+
+.box:hover {
+    background-color: #b69898;
 }
 
 .box1 {
