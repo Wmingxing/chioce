@@ -1,4 +1,4 @@
-// alert("欢迎来到二楼!")
+ alert("欢迎来到郑工金河餐厅二楼!")
 
 function username() {
     var flag = false;
